@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="620" viewBox="0 0 1080 620">
+<rect width="1080" height="620" fill="#edf4fa"/>
+<rect x="35" y="35" width="1010" height="550" rx="22" fill="white" stroke="#c5d6e3" stroke-width="2"/>
+<g fill="#16364a" font-family="DejaVu Sans, sans-serif">
+<text x="75" y="107" font-size="46" font-weight="bold">Wrap across a 16 bit counter</text>
+<text x="75" y="153" font-size="32">Three snapshots from the same run</text>
+<g text-anchor="middle">
+<g font-size="31"><text x="215" y="239">0 ms</text><text x="540" y="239">20 ms</text><text x="865" y="239">40 ms</text></g>
+<g font-size="50" font-weight="bold"><text x="215" y="325">65,530</text><text x="540" y="325">34</text><text x="865" y="325">65,530</text></g>
+<text x="377" y="428" font-size="36" fill="#006a69">+40 counts</text>
+<text x="702" y="428" font-size="36" fill="#823b12">−40 counts</text>
+</g>
+<text x="75" y="535" font-size="30">Increasing wraps from 65,535 to 0.</text>
+</g>
+<path d="M245 369H510m-19-13 19 13-19 13" fill="none" stroke="#006a69" stroke-width="5"/>
+<path d="M570 369H835m-19-13 19 13-19 13" fill="none" stroke="#823b12" stroke-width="5"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="620" viewBox="0 0 1080 620">
+<rect width="1080" height="620" fill="#f0f6f5"/>
+<rect x="35" y="35" width="1010" height="550" rx="22" fill="white" stroke="#bfd5d2" stroke-width="2"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#173743">
+<text x="75" y="106" font-size="48" font-weight="bold">One cycle, four counts</text>
+<text x="75" y="153" font-size="32">A leads B in this example.</text>
+<text x="84" y="240" font-size="36" font-weight="bold" fill="#006a69">A</text>
+<text x="84" y="352" font-size="36" font-weight="bold" fill="#823b12">B</text>
+<text x="84" y="450" font-size="28">A B</text>
+<text x="84" y="520" font-size="28">Count</text>
+<g font-size="34" text-anchor="middle">
+<text x="230" y="451">00</text><text x="390" y="451">10</text><text x="550" y="451">11</text><text x="710" y="451">01</text><text x="870" y="451">00</text>
+<text x="230" y="521">0</text><text x="390" y="521">1</text><text x="550" y="521">2</text><text x="710" y="521">3</text><text x="870" y="521">4</text>
+</g>
+</g>
+<g stroke="#b5c8c8" stroke-width="2" stroke-dasharray="8 8">
+<path d="M310 190V540M470 190V540M630 190V540M790 190V540"/>
+</g>
+<path d="M150 263H310V209H630V263H950" fill="none" stroke="#006a69" stroke-width="7"/>
+<path d="M150 376H470V322H790V376H950" fill="none" stroke="#823b12" stroke-width="7"/>
+</svg>

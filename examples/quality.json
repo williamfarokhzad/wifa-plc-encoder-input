@@ -1,0 +1,4 @@
+{
+  "setup": {"bits": 16, "cycles_per_rev": 1000, "decode": 4, "max_rpm": 600},
+  "samples": [[0, 1000, "ok"], [10, 0, "reset"], [30, 20, "ok"], [50, 20, "fault"], [70, 900, "ok"], [90, 880, "ok"]]
+}

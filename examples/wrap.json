@@ -1,0 +1,4 @@
+{
+  "setup": {"bits": 16, "cycles_per_rev": 1000, "decode": 4, "max_rpm": 600},
+  "samples": [[0, 65530, "ok"], [20, 34, "ok"], [40, 65530, "ok"], [60, 65530, "ok"]]
+}
